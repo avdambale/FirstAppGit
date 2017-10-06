@@ -8,7 +8,7 @@ public class Calculator {
 	}
 
 	public int sub(int i , int j ) {
-//subp
+//subp bat 
 		return i-j;
 	}
 }
